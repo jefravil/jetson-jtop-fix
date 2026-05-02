@@ -1,9 +1,9 @@
 **Run the script**:
-    ```bash
+```bash
     chmod +x fix_jtop_jetpack622.sh
     
     sudo ./fix_jtop_jetpack622.sh
     
-    ```
+```
 
 
